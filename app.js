@@ -1,12 +1,12 @@
 const apps = [
-    {
+  {
     "type": "iPA",
     "logo": "https://play-lh.googleusercontent.com/lGs9dEKeGBTRbzkCWSfpL_bpDPt2v1g4uZUY8fxlqHqIk3wva_MoqqmuuSZ7ughWPRU",
     "name": "Auto Clicker",
     "os": "iOS",
     "version": "1.0",
     "size": "9,52MB",
-    "description": "TÃÂ¡ÃÂ»ÃÂ± ÃÂÃÂÃÂ¡ÃÂ»ÃÂng nhÃÂ¡ÃÂºÃÂ¥n, thao tÃÂÃÂ¡c cÃÂ¡ÃÂºÃÂ£m ÃÂ¡ÃÂ»ÃÂ©ng.",
+    "description": "Tự động nhấn, thao tác cảm ứng.",
     "downloadLink": "https://download1326.mediafire.com/yqbr57ue9vcgaqnXaiCrDN2nyyOJMRMg-N1FavYF6gjAPBJAv0m9PSVbOT9WrEHQSpbxaJAyksIcXNtRudjfJmni1VJWOYsLVs-GRoe73_fMgo1cbyjH5ZQt101yhbpbCXa__zFIbkvOPGGyyg76x9sxp7n_Kx2MzF9hjuan6-79ikg/42eb9ocs8ppp75g/Auto-Clicker.ipa"
   },
   {
@@ -16,7 +16,7 @@ const apps = [
     "os": "iOS",
     "version": "1.0",
     "size": "74,7KB",
-    "description": "SÃÂ¡ÃÂ»ÃÂ­a lÃÂ¡ÃÂ»ÃÂi khÃÂÃÂ´ng chÃÂ¡ÃÂ»ÃÂn ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c file cho App.",
+    "description": "Sửa lỗi không chọn được file cho App.",
     "downloadLink": "https://download1584.mediafire.com/vkbt6ebnpgrgpy74k1eUSjoY3cFtL87dtNMEasSeJv-U_TEvkr-BtJREHv46hIdZX1JiYnq0LQec2MCTIBNqyi1SDfljOXQ_Gv0Vqgro3mXuQCXqslL91kCkk6eixX0uQmykHJePKXIU38O4huEZQqbARIhVIYZUJsoAh1IY4bUWmQ/stgo81xuxeu8i2s/FilePickerFix.dylib"
   },
   {
@@ -26,7 +26,7 @@ const apps = [
     "os": "iOS",
     "version": "8.4.1",
     "size": "116,6MB",
-    "description": "MÃÂ¡ÃÂ»ÃÂ khÃÂÃÂ³a cÃÂÃÂ¡c tÃÂÃÂ­nh nÃÂÃÂng VIP.",
+    "description": "Mở khóa các tính năng VIP.",
     "downloadLink": "https://drive.google.com/uc?export=download&id=1dwwCBqYekxmHOK8Kx4CH41vnOt-n_55V"
   },
   {
@@ -36,7 +36,7 @@ const apps = [
     "os": "iOS",
     "version": "5.0.2",
     "size": "6,87MB",
-    "description": "CÃÂÃÂ i iPA bÃÂ¡ÃÂºÃÂ±ng chÃÂ¡ÃÂ»ÃÂ©ng chÃÂ¡ÃÂ»ÃÂ cÃÂÃÂ³ tuÃÂ¡ÃÂ»ÃÂ³ chÃÂ¡ÃÂ»ÃÂnh.",
+    "description": "Cài iPA bằng chứng chỉ ngoài.",
     "downloadLink": "https://github.com/qbap/ONEJailbreak-IPAs/raw/main/esign_5.0.2_unsigned.ipa"
   },
   {
@@ -46,7 +46,7 @@ const apps = [
     "os": "iOS",
     "version": "1.16.6",
     "size": "28,15MB",
-    "description": "GiÃÂ¡ÃÂºÃÂ£ lÃÂ¡ÃÂºÃÂ­p PSP.",
+    "description": "Giả lập PSP.",
     "downloadLink": "https://download1979.mediafire.com/awqz7smn709gXuiWLYh69vClpivW07xcw-Z_Bp-xxORodetlUqoxqXZtXArA9LGsDThN4BQQQ7IJFb7LykmzWZrtI8scwQHIrE_RJ86z8vp9-Or50pYrefK-E1YvLyKn6qUFFU3TkBGJ1Bfj4OlEWhApAtTm4NepXUwSeDd2z01HhQ/dz3762jj89dwe8l/PPSSPP_v1.16.6.ipa"
   },
   {
@@ -56,7 +56,7 @@ const apps = [
     "os": "iOS",
     "version": "4.0.0",
     "size": "13,9MB",
-    "description": "QuÃÂ¡ÃÂºÃÂ£n lÃÂÃÂ½ file, HÃÂÃÂ£y xoÃÂÃÂ¡ Filza nÃÂ¡ÃÂºÃÂ¿u cÃÂÃÂ¡c app phÃÂÃÂ¡t hiÃÂ¡ÃÂ»ÃÂn Jailbreak.",
+    "description": "Quản lý file, Hãy xóa Filza nếu các app phát hiện Jailbreak.",
     "downloadLink": "https://tigisoftware.com/download/Filza_4.0.0.ipa"
   },
   {
@@ -66,8 +66,8 @@ const apps = [
     "os": "iOS",
     "version": "18.41.2",
     "size": "105MB",
-    "description": "ChÃÂ¡ÃÂºÃÂ·n quÃÂ¡ÃÂºÃÂ£ng cÃÂÃÂ¡o, Nghe nhÃÂ¡ÃÂºÃÂ¡c mÃÂÃÂ n hÃÂÃÂ¬nh, PiP,...",
-    "downloadLink": "https://download1076.mediafire.com/9r6dtdblj3hgaDYV0wjCOpkSWufjmwsaZuP8-FTa4flR-YkgXu0Cau2GkR0OXFOR56JlHua1BWyQt4eg_qs8w_oZNDA_JbDTfF1YphX_wo6fjMjZgwQOOty-lhy5aYRwbQ_El57I4j8Zh33IY1vvqMuSxHUjAYMWUyHJ08qNDRR_Gmc/zjjs25xodrmokjb/DiuTube_18.41.2_LeTi.ipa"
+    "description": "Chặn quảng cáo, Nghe nhạc màn hình, PiP,...",
+    "downloadLink": "https://download1076.mediafire.com/9r6dtdblj3hgaDYV0wjCOpkSWufjmwsaZuP8-FTa4flR-YkgXu0Cau2GkR0OXFOR56JlHua1BWyQt4eg_qs8w_oZNDA_JbDTfR_Gmc/zjjs25xodrmokjb/DiuTube_18.41.2_LeTi.ipa"
   },
   {
     "type": "iPA",
@@ -76,7 +76,7 @@ const apps = [
     "os": "iOS",
     "version": "2.1.0",
     "size": "101,6MB",
-    "description": "ChÃÂÃÂ¡i Game Ren'Py trÃÂÃÂªn iPhone.",
+    "description": "Chơi Game Ren'Py trên iPhone.",
     "downloadLink": "https://download1324.mediafire.com/xzko7slaeingL8o0AVhjoMcRnoNieut7Ay1MkFWZSWlVTw3Rt2g21mFpJ2BF3rZMf5hqVjWfIlfpMv_W2BuSG2tmvK1GA71UPGcQFWAWC3lvfkm2SCLnHdh3qjeZMucWO50TS91H5oUnboHaEW9ZdsFtzr4vuE2s0v2T_NJydiVvKfU/ibllwkjrs6rc9k7/RenpyViewer+3.5%5BiOS+13%5D.ipa"
   },
   {
@@ -86,45 +86,35 @@ const apps = [
     "os": "iOS",
     "version": "3.7",
     "size": "13,9MB",
-    "description": "ChÃÂÃÂ¡i Game RPGMV trÃÂÃÂªn iPhone (phÃÂ¡ÃÂºÃÂ£i chÃÂ¡ÃÂ»ÃÂ©a folder 'www').",
-    "downloadLink": "https://download1593.mediafire.com/e1exwmfjwdugRdQ34oAkDUPDtmx28BxjhIzK0few5071MvZCeSp9bIfkkLConY-MMx5aYOanOVaUrazFgHvLMtoEABUEVtXfkdCTaT46uw1GoZsWkKI4qSBPlFpmV_evroXzcnjmXNUrw52SEGq9GS-mB5Ud8lGLjyohtPSXFShSXdA/ubbw6muf0iwl570/ONSPlayer+3.7.ipa"
-  },
-  {
-    "type": "iPA",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f7/65/d3/f765d38c-c890-fcb2-26c4-1662e998f709/AppIcon-1x_U007emarketing-0-6-85-220.png/230x0w.webp",
-    "name": "XP3Player",
-    "os": "iOS",
-    "version": "1.3.11",
-    "size": "15,7MB",
-    "description": "ChÃÂÃÂ¡i Game Visual Novel trÃÂÃÂªn iPhone.",
-    "downloadLink": "https://download1591.mediafire.com/1djhb1slprjgDXQkHPA8x6e79yh4Bu-uK1HulgVGo7zFLfQLnFkTiWkC1hDCRJmNULSoLjNcF25wD7wnkjSwlg9_lh_ts7b62h1_GjIAOyMVQexEAkXP6yjDX3cSaWNraPRp83GiX96wwE9Fqiln-gAmexhiXLSXlUcKQ6br8aax/3fn8vg75njvvws8/XP3Player+1.3.11.ipa"
+    "description": "Chơi Game RPGMV trên iPhone (phải chia folder 'www').",
+    "downloadLink": "https://download1593.mediafire.com/e1exwmfjwdugRdQ34oAkDUPDtmx28BxjhIzK0few5071MvZCeSp9bIfkkLConY-MMx5aYOanOVaUrazFgHvLMtoEABPlFpmV_evroXzcnjmXNUrw52SEGq9br8aax/3fn8vg75njvvws8/XP3Player+1.3.11.ipa"
   },
   {
     "type": "Link",
     "logo": "https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png",
-    "name": "NhÃÂÃÂ³m Telegram",
-    "description": "NhÃÂÃÂ³m Telegram Agent17 ViÃÂ¡ÃÂ»ÃÂt Nam.",
+    "name": "Nhóm Telegram",
+    "description": "Nhóm Telegram Agent17 Việt Nam.",
     "downloadLink": "https://t.me/+BGzUEHarNSE1ZWU1"
   },
   {
     "type": "Link",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Facebook_Messenger_logo_2025.svg/1024px-Facebook_Messenger_logo_2025.svg.png",
-    "name": "NhÃÂÃÂ³m Messenger",
-    "description": "NhÃÂÃÂ³m Messenger Agent17 ViÃÂ¡ÃÂ»ÃÂt Nam.",
+    "name": "Nhóm Messenger",
+    "description": "Nhóm Messenger Agent17 Việt Nam.",
     "downloadLink": "https://m.me/cm/AbYKlwJEDeI7jbBR/"
   },
   {
     "type": "Link",
     "logo": "https://static.vecteezy.com/system/resources/previews/006/892/625/large_2x/discord-logo-icon-editorial-free-vector.jpg",
-    "name": "NhÃÂÃÂ³m Discord",
-    "description": "NhÃÂÃÂ³m Discord Agent17 ViÃÂ¡ÃÂ»ÃÂt Nam.",
+    "name": "Nhóm Discord",
+    "description": "Nhóm Discord Agent17 Việt Nam.",
     "downloadLink": "https://discord.gg/UUhMAYmw9p"
   },
   {
     "type": "Link",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f1/Settings_2025_%28dark%29.png",
     "name": "DNS Anti Revoke",
-    "description": "DNS ChÃÂ¡ÃÂºÃÂ·n thu hÃÂ¡ÃÂ»ÃÂi chÃÂ¡ÃÂ»ÃÂ©ng chÃÂ¡ÃÂ»ÃÂ.",
+    "description": "DNS Chặn thu hồi chứng chỉ.",
     "downloadLink": "https://khoindvn.io.vn/document/DNS/signed_khoindvn.mobileconfig"
   },
   {
@@ -134,7 +124,7 @@ const apps = [
     "os": "iOS",
     "version": "1.0.3",
     "size": "6,57MB",
-    "description": "CÃÂÃÂ i TrollStore.",
+    "description": "Cài TrollStore.",
     "downloadLink": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
   }
 ];
