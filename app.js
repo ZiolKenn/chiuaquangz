@@ -46,7 +46,7 @@ const apps = [
     "os": "iOS",
     "version": "1.16.6",
     "size": "28,15MB",
-    "description": "Giáº£ láº­p PSP.",
+    "description": "Giả lập PSP.",
     "downloadLink": "https://download1979.mediafire.com/awqz7smn709gXuiWLYh69vClpivW07xcw-Z_Bp-xxORodetlUqoxqXZtXArA9LGsDThN4BQQQ7IJFb7LykmzWZrtI8scwQHIrE_RJ86z8vp9-Or50pYrefK-E1YvLyKn6qUFFU3TkBGJ1Bfj4OlEWhApAtTm4NepXUwSeDd2z01HhQ/dz3762jj89dwe8l/PPSSPP_v1.16.6.ipa"
   },
   {
@@ -86,7 +86,7 @@ const apps = [
     "os": "iOS",
     "version": "3.7",
     "size": "13,9MB",
-    "description": "Chơi Game RPGMV trên iPhone (phải chia folder 'www').",
+    "description": "Chơi Game RPGMV trên iPhone (phải có folder 'www').",
     "downloadLink": "https://download1593.mediafire.com/e1exwmfjwdugRdQ34oAkDUPDtmx28BxjhIzK0few5071MvZCeSp9bIfkkLConY-MMx5aYOanOVaUrazFgHvLMtoEABPlFpmV_evroXzcnjmXNUrw52SEGq9br8aax/3fn8vg75njvvws8/XP3Player+1.3.11.ipa"
   },
   {
@@ -114,7 +114,7 @@ const apps = [
     "type": "Link",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f1/Settings_2025_%28dark%29.png",
     "name": "DNS Anti Revoke",
-    "description": "DNS Cháº·n thu há»i chá»©ng chá».",
+    "description": "DNS Chặn thu hồi chứng chỉ.",
     "downloadLink": "https://khoindvn.io.vn/document/DNS/signed_khoindvn.mobileconfig"
   },
   {
