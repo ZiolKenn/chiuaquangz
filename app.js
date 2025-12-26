@@ -126,5 +126,15 @@ const apps = [
     "size": "6,57MB",
     "description": "Cài TrollStore.",
     "downloadLink": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
+  },
+  {
+    "type": "APK",
+    "logo": "https://joiplay.org/wp-content/uploads/2023/02/cropped-Joiplay-Favicon.png",
+    "name": "JoiPlay",
+    "os": "Android",
+    "version": "1.20.600",
+    "size": "27,56MB",
+    "description": "Trình thông dịch và khởi chạy trò chơi dành cho RPG Maker XP/VX/VX Ace/MV/MZ, Ren'Py, TyranoBuilder, Construct 2&3, Flash và các trò chơi dựa trên HTML.",
+    "downloadLink": "https://pixeldrain.com/u/CYwmFpZD"
   }
 ];
