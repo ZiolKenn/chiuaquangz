@@ -126,5 +126,14 @@ const apps = [
     "size": "6,57MB",
     "description": "Cài TrollStore.",
     "downloadLink": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
+  },
+  {
+    "type": "Game",
+    "name": "test",
+    "os": "iOS",
+    "version": "1.2.7",
+    "size": "12,7MB",
+    "description": "abcxyz",
+    "downloadLink": "example"
   }
 ];
