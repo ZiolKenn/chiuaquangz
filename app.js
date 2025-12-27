@@ -173,5 +173,15 @@ const apps = [
     "size": "16MB",
     "description": "Giả lập chạy game RPGM.",
     "downloadLink": "https://drive.usercontent.google.com/download?id=1wxW15PxHb7IGSkujoSuWC6Z1SSzSGeyJ&export=download"
+  },
+  {
+    "type": "iPA",
+    "logo": "https://appteka.store/get/e2VT1_E-DKBD0yB6865q4GDZd39uM1OgHhOBOJGLMpeATLs7a1mo4CKXa9DtwYXbYPcnPifMwxa41MCq5ivYRnbr/18e29dc687857c53cd4ca9a2916ccd4d84ce20a5.png",
+    "name": "Artroid+",
+    "os": "iOS",
+    "version": "2.0",
+    "size": "72MB",
+    "description": "Giả lập chạy game engine Artemis.",
+    "downloadLink": "https://drive.usercontent.google.com/download?id=16qiL7IJiwht_FxVtipVaTuS89Hp_rAlZ&export=download&confirm=t&uuid=c8aff9c2-6106-4fad-b497-ddda7afd7f96"
   }
 ];
