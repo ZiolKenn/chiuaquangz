@@ -153,5 +153,15 @@ const apps = [
     "name": "JoiPlay & Plugins",
     "description": "Kho APK các Plugin cho JoiPlay và JoiPlay.",
     "downloadLink": "https://pixeldrain.com/l/3o29NLu9"
+  },
+  {
+    "type": "Game",
+    "logo": "https://goodbyeeternity.com//goodbye_eternity.webp",
+    "name": "Goodbye Eternity",
+    "os": "iOS",
+    "version": "0.11.0",
+    "size": "1,32GB",
+    "description": "Goodbye Eternity iOS Port (.iPA) by ZiolKen.",
+    "downloadLink": "https://download1475.mediafire.com/m2spik2c5bbgGHlPp1N_YKbdIOc9VWx43-qb3AI38B-N8joD77rLPxMM1Qb0TKF3ZSzjW4DrdCOwROX4mhAop4_IYofIQcU06AS81SzaQWmxyywsKGTDeeeL81uDFmQtDgBlamOx5x9tRrkHUajb3QOs3K9epacYh9euNPn9Li7z/g32ruuamropa2ub/GoodbyeEternity-0.11.0-iOS.ipa"
   }
 ];
