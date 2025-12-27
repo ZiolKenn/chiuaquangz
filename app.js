@@ -221,5 +221,16 @@ const apps = [
     "name": "a",
     "os": "iOS",
     "downloadLink": "a"
+  },
+  {
+    "type": "Game",
+    "name": "gg",
+    "os": "iOS",
+    "downloadLink": "gg",
+    "screenshots": [
+      "gggh",
+      "jjjj",
+      "nnm"
+    ]
   }
 ];
