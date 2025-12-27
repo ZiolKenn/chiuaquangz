@@ -217,12 +217,6 @@ const apps = [
     "downloadLink": "https://drive.usercontent.google.com/download?id=1wuSensSrbWteYdDnafIhTh07ivd-5Xc3&export=download&confirm=t&uuid=5781b12f-5a7a-4eb9-8087-00c71dc10c9e"
   },
   {
-    "type": "iPA",
-    "name": "a",
-    "os": "iOS",
-    "downloadLink": "a"
-  },
-  {
     "type": "Game",
     "name": "gg",
     "os": "iOS",
