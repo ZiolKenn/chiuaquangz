@@ -74,10 +74,10 @@ const apps = [
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/ef/57/d9ef57c0-7e6d-627d-2a95-0b69ece08466/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
     "name": "RenpyViewer",
     "os": "iOS",
-    "version": "2.1.0",
-    "size": "101,6MB",
+    "version": "3.10",
+    "size": "60MB",
     "description": "Chơi Game Ren'Py trên iPhone.",
-    "downloadLink": "https://download1324.mediafire.com/xzko7slaeingL8o0AVhjoMcRnoNieut7Ay1MkFWZSWlVTw3Rt2g21mFpJ2BF3rZMf5hqVjWfIlfpMv_W2BuSG2tmvK1GA71UPGcQFWAWC3lvfkm2SCLnHdh3qjeZMucWO50TS91H5oUnboHaEW9ZdsFtzr4vuE2s0v2T_NJydiVvKfU/ibllwkjrs6rc9k7/RenpyViewer+3.5%5BiOS+13%5D.ipa"
+    "downloadLink": "https://drive.usercontent.google.com/download?id=1Us0sMLuwmqBMig9FMBYVmBPSHb_X4inK&export=download"
   },
   {
     "type": "iPA",
