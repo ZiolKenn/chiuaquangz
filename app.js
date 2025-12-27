@@ -146,5 +146,12 @@ const apps = [
     "size": "137MB",
     "description": "Giả lập chạy game Ren'Py (7.4.11->8.5.0)",
     "downloadLink": "https://drive.usercontent.google.com/download?id=1B_GlnyUGqT-tJvWpg8pz1t0aTTAJ7eDF&export=download&confirm=t&uuid=d9de5b5f-587e-44b1-acd3-689712b33676"
+  },
+  {
+    "type": "Link",
+    "logo": "https://static.download.it/gen/android/renpy-plugin-for-joiplay-100x100.png",
+    "name": "JoiPlay & Plugins",
+    "description": "Kho APK các Plugin cho JoiPlay và JoiPlay.",
+    "downloadLink": "https://pixeldrain.com/l/3o29NLu9"
   }
 ];
