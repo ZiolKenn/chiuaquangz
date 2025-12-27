@@ -162,6 +162,7 @@ const apps = [
     "version": "0.11.0",
     "size": "1,32GB",
     "description": "Goodbye Eternity iOS Port (.iPA) by ZiolKen.",
+    "detailDesc": "Thể loại: NSFW, 2D, Main Nam, Visual Novel, Simulation, Cảnh Động...\nPhiên bản: 0.11.0\nDeveloper: RNGeusEX\nNội Dung Game: Nếu bạn có một cơ hội mới trong cuộc đời mình, bạn sẽ làm gì?\nNếu bạn có thể trả thù những người đã đối xử tồi tệ với bạn và đạt được những ước mơ lâu nay… Bạn sẽ làm gì, với cơ hội này, khi bạn thức dậy trong một cơ thể trẻ trung của ba mươi năm trước?\nGoodbye Eternity (hay còn gọi là Extra Life) là một tựa game phiêu lưu kết hợp cùng với thể loại visual novel và giả lập hẹn hò, xoay quanh chủ đề làm lại cuộc đời.\nCốt truyện game tập trung vào các lựa chọn của người chơi, và mỗi lựa chọn đều ảnh hưởng đến mối quan hệ và kết cục của game.\nSaito, nhân vật chính của game có thể chọn đối đầu với những kẻ từng làm tổn thương mình, theo đuổi ước mơ bị chôn vùi, hoặc xây dựng mối quan hệ tình cảm với các nhân vật nữ trong game.",
     "downloadLink": "https://download1475.mediafire.com/m2spik2c5bbgGHlPp1N_YKbdIOc9VWx43-qb3AI38B-N8joD77rLPxMM1Qb0TKF3ZSzjW4DrdCOwROX4mhAop4_IYofIQcU06AS81SzaQWmxyywsKGTDeeeL81uDFmQtDgBlamOx5x9tRrkHUajb3QOs3K9epacYh9euNPn9Li7z/g32ruuamropa2ub/GoodbyeEternity-0.11.0-iOS.ipa"
   },
   {
