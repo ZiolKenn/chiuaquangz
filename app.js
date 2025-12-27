@@ -193,5 +193,15 @@ const apps = [
     "size": "29MB",
     "description": "Giả lập chạy game engine Kirikiri KAG.",
     "downloadLink": "https://drive.usercontent.google.com/download?id=1Q_ZFRcg73uM3BTTQuxM-6BOPq97dcp5Z&export=download&confirm=t&uuid=2879d84f-e924-48e7-8815-7e0a49ea4f0a"
+  },
+  {
+    "type": "APK",
+    "logo": "https://img.skich.io/games/icons/fa7e1eb0-870d-4e86-b1ce-16dd65208c26.jpg",
+    "name": "Kirikiri2",
+    "os": "Android",
+    "version": "1.3.9",
+    "size": "30,8MB",
+    "description": "Giả lập chạy game Kirikiri KAG.",
+    "downloadLink": "https://github.com/zeas2/Kirikiroid2/releases/download/1.3.9/Kirikiroid2_1.3.9.apk"
   }
 ];
