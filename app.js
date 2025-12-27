@@ -84,10 +84,10 @@ const apps = [
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/db/b5/2fdbb59a-f65c-d40e-91a6-00beb25daf45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/230x0w.webp",
     "name": "ONSPlayer",
     "os": "iOS",
-    "version": "3.7",
+    "version": "3.12",
     "size": "13,9MB",
     "description": "Chơi Game RPGMV trên iPhone (phải có folder 'www').",
-    "downloadLink": "https://download1593.mediafire.com/e1exwmfjwdugRdQ34oAkDUPDtmx28BxjhIzK0few5071MvZCeSp9bIfkkLConY-MMx5aYOanOVaUrazFgHvLMtoEABPlFpmV_evroXzcnjmXNUrw52SEGq9br8aax/3fn8vg75njvvws8/XP3Player+1.3.11.ipa"
+    "downloadLink": "https://drive.usercontent.google.com/download?id=1njus7A0fkT7n8wCUwo27ZmwLMhq3V0Zc&export=download"
   },
   {
     "type": "Link",
