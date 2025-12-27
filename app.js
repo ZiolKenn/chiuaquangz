@@ -77,7 +77,7 @@ const apps = [
     "version": "3.10",
     "size": "60MB",
     "description": "Chơi Game Ren'Py trên iPhone.",
-    "downloadLink": "https://drive.usercontent.google.com/download?id=1Us0sMLuwmqBMig9FMBYVmBPSHb_X4inK&export=download"
+    "downloadLink": "https://drive.usercontent.google.com/download?id=1Us0sMLuwmqBMig9FMBYVmBPSHb_X4inK&export=download&confirm=t&uuid=89687085-8b80-4d0d-b5da-60dede05bfe4"
   },
   {
     "type": "iPA",
