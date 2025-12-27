@@ -201,7 +201,7 @@ const apps = [
     "os": "Android",
     "version": "1.3.9",
     "size": "30,8MB",
-    "description": "Giả lập chạy game Kirikiri KAG.",
+    "description": "Giả lập chạy game engine Kirikiri KAG.",
     "downloadLink": "https://github.com/zeas2/Kirikiroid2/releases/download/1.3.9/Kirikiroid2_1.3.9.apk"
   }
 ];
