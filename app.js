@@ -136,15 +136,5 @@ const apps = [
     "size": "27,56MB",
     "description": "Trình thông dịch và khởi chạy trò chơi dành cho RPG Maker XP/VX/VX Ace/MV/MZ, Ren'Py, TyranoBuilder, Construct 2&3, Flash và các trò chơi dựa trên HTML.",
     "downloadLink": "https://pixeldrain.com/api/file/CYwmFpZD?download"
-  },
-  {
-    "type": "Game",
-    "logo": "test",
-    "name": "Mỹ new",
-    "os": "iOS",
-    "version": "1.0",
-    "size": "11mb",
-    "description": "Test",
-    "downloadLink": "Tết"
   }
 ];
