@@ -183,5 +183,15 @@ const apps = [
     "size": "72MB",
     "description": "Giả lập chạy game engine Artemis.",
     "downloadLink": "https://drive.usercontent.google.com/download?id=16qiL7IJiwht_FxVtipVaTuS89Hp_rAlZ&export=download&confirm=t&uuid=c8aff9c2-6106-4fad-b497-ddda7afd7f96"
+  },
+  {
+    "type": "iPA",
+    "logo": "https://img.skich.io/games/icons/fa7e1eb0-870d-4e86-b1ce-16dd65208c26.jpg",
+    "name": "Kirikiri2",
+    "os": "iOS",
+    "version": "1.3.9",
+    "size": "29MB",
+    "description": "Giả lập chạy game engine Kirikiri KAG.",
+    "downloadLink": "https://drive.usercontent.google.com/download?id=1Q_ZFRcg73uM3BTTQuxM-6BOPq97dcp5Z&export=download&confirm=t&uuid=2879d84f-e924-48e7-8815-7e0a49ea4f0a"
   }
 ];
