@@ -136,5 +136,15 @@ const apps = [
     "size": "27,56MB",
     "description": "Giả lập chạy game RPGM XP/VX/VX Ace/MV/MZ, Ren'Py, TyranoBuilder, Construct 2&3, Flash và các game HTML.",
     "downloadLink": "https://pixeldrain.com/api/file/CYwmFpZD?download"
+  },
+  {
+    "type": "iPA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/b5/bf/15b5bf5a-e509-c7bf-971d-f68af6d04b63/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-85-220.png/256x256bb.jpg",
+    "name": "Spark",
+    "os": "iOS",
+    "version": "1.3.3",
+    "size": "137MB",
+    "description": "Giả lập chạy game Ren'Py (7.4.11->8.5.0)",
+    "downloadLink": "https://drive.usercontent.google.com/download?id=1B_GlnyUGqT-tJvWpg8pz1t0aTTAJ7eDF&export=download&confirm=t&uuid=d9de5b5f-587e-44b1-acd3-689712b33676"
   }
 ];
