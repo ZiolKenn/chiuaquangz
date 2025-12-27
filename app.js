@@ -163,5 +163,15 @@ const apps = [
     "size": "1,32GB",
     "description": "Goodbye Eternity iOS Port (.iPA) by ZiolKen.",
     "downloadLink": "https://download1475.mediafire.com/m2spik2c5bbgGHlPp1N_YKbdIOc9VWx43-qb3AI38B-N8joD77rLPxMM1Qb0TKF3ZSzjW4DrdCOwROX4mhAop4_IYofIQcU06AS81SzaQWmxyywsKGTDeeeL81uDFmQtDgBlamOx5x9tRrkHUajb3QOs3K9epacYh9euNPn9Li7z/g32ruuamropa2ub/GoodbyeEternity-0.11.0-iOS.ipa"
+  },
+  {
+    "type": "iPA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/10/c0/ff10c099-0ec0-45e4-aec2-a0fd2c26cd4c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/0x0ss-85.png",
+    "name": "RPGEmu",
+    "os": "iOS",
+    "version": "2.1.1",
+    "size": "16MB",
+    "description": "Giả lập chạy game RPGM.",
+    "downloadLink": "https://drive.usercontent.google.com/download?id=1wxW15PxHb7IGSkujoSuWC6Z1SSzSGeyJ&export=download"
   }
 ];
