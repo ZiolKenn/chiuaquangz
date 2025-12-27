@@ -156,7 +156,7 @@ const apps = [
   },
   {
     "type": "Game",
-    "logo": "https://goodbyeeternity.com//goodbye_eternity.webp",
+    "logo": "https://raw.githubusercontent.com/ZiolKen/GoodbyeEternityiOS/main/icon.png",
     "name": "Goodbye Eternity",
     "os": "iOS",
     "version": "0.11.0",
