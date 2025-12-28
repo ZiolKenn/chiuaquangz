@@ -135,7 +135,7 @@ const apps = [
     "version": "1.20.600",
     "size": "27,56MB",
     "description": "Giả lập chạy game RPGM XP/VX/VX Ace/MV/MZ, Ren'Py, TyranoBuilder, Construct 2&3, Flash và các game HTML.",
-    "downloadLink": "https://pixeldrain.com/api/file/CYwmFpZD?download"
+    "downloadLink": "https://pixeldrain.com/u/CYwmFpZD"
   },
   {
     "type": "iPA",
