@@ -236,10 +236,10 @@ const apps = [
     "downloadLink": "https://drive.google.com/drive/folders/12Jz3hYww9GqCna8c_T7xYhIpTHweadl0",
     "detailDesc": "Thể Loại: Simulation, Animated, Loli, Puzzle, Uncensored\nNgôn Ngữ: Tiếng Việt\nPhiên Bản: v1.07\nNhà phát hành: HappyLambBarn\n\nNội Dung: Một ngày đẹp trời, cô công chúa bé nhỏ của vương quốc nọ đã vô tình giải phóng con quỷ trong tấm bia đá, khiến nó tức giận mà phong ấn cô bé lại. Vô số kẻ đã đến thách đấu con quỷ hòng giải cứu công chúa nhưng đều thất bại. Và rồi anh main tới, đánh bại con quỷ, tuy nhiên mọi chuyện chưa dừng ở đó. Phẫn nộ trước thái độ xấc xược và vô ơn của công chúa, nó đã nguyền rủa cô bé mãi mãi biến thành nhân thú, với tai và đuôi cún. Nội trong 3 ngày, nếu anh main không thể bắn vào bên trong công chúa, cô sẽ phải mang theo hình dạng đó suốt đời. Liệu anh ta sẽ chỉ đơn thuần là phá bỏ lời nguyền trên công chúa, hay là…?\n\nKhám phá câu chuyện xảy ra ở vương quốc nọ với phong cách kể chuyện độc đáo!\n\nĐánh bại con quỷ trong trò chơi ghi nhớ, và giải cứu nàng công chúa xinh đẹp!\n\nPhá bỏ lời nguyền nhân thú với kỹ năng làm tềnh đỉnh cao!\n\nVà một cái kết thật mãn nguyện, hay là…?",
     "screenshots": [
-      "https://imgbox.com/gHC9BmIP",
-      "https://imgbox.com/HnvXHe5l",
-      "https://imgbox.com/bfbZiBqX",
-      "https://imgbox.com/alKW46pl"
+      "https://files.catbox.moe/yd6gch.png",
+      "https://files.catbox.moe/w62v9r.png",
+      "https://files.catbox.moe/cuvsta.png",
+      "https://files.catbox.moe/x27iq0.png"
     ]
   }
 ];
