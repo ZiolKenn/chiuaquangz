@@ -227,7 +227,7 @@ const apps = [
   },
   {
     "type": "Game",
-    "logo": "https://imgbox.com/OJ7Ccu0J",
+    "logo": "https://files.catbox.moe/vk32ov.jpeg",
     "name": "Dog Princess",
     "os": "Android",
     "version": "1.0.7",
