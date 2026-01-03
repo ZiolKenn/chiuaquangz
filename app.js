@@ -224,5 +224,22 @@ const apps = [
     "size": "30MB",
     "description": "Giả lập chạy game RPGM.",
     "downloadLink": "https://drive.usercontent.google.com/download?id=1wuSensSrbWteYdDnafIhTh07ivd-5Xc3&export=download&confirm=t&uuid=5781b12f-5a7a-4eb9-8087-00c71dc10c9e"
+  },
+  {
+    "type": "Game",
+    "logo": "1.07",
+    "name": "https://imgbox.com/BFcBoSln",
+    "os": "Android",
+    "version": "1.07",
+    "size": "320,8MB",
+    "description": "Dog Princess Windows và Android",
+    "downloadLink": "https://drive.google.com/drive/folders/12Jz3hYww9GqCna8c_T7xYhIpTHweadl0",
+    "detailDesc": "Thể Loại: Simulation, Animated, Loli, Puzzle, Uncensored \nNgôn Ngữ: Tiếng Việt\nPhiên Bản: v1.07\nNhà phát hành: HappyLambBarn\n\nNội Dung: Một ngày đẹp trời, cô công chúa bé nhỏ của vương quốc nọ đã vô tình giải phóng con quỷ trong tấm bia đá, khiến nó tức giận mà phong ấn cô bé lại. Vô số kẻ đã đến thách đấu con quỷ hòng giải cứu công chúa nhưng đều thất bại. Và rồi anh main tới, đánh bại con quỷ, tuy nhiên mọi chuyện chưa dừng ở đó. Phẫn nộ trước thái độ xấc xược và vô ơn của công chúa, nó đã nguyền rủa cô bé mãi mãi biến thành nhân thú, với tai và đuôi cún. Nội trong 3 ngày, nếu anh main không thể bắn vào bên trong công chúa, cô sẽ phải mang theo hình dạng đó suốt đời. Liệu anh ta sẽ chỉ đơn thuần là phá bỏ lời nguyền trên công chúa, hay là…?\n\nKhám phá câu chuyện xảy ra ở vương quốc nọ với phong cách kể chuyện độc đáo!\n\nĐánh bại con quỷ trong trò chơi ghi nhớ, và giải cứu nàng công chúa xinh đẹp!\n\nPhá bỏ lời nguyền nhân thú với kỹ năng làm tềnh đỉnh cao!\n\nVà một cái kết thật mãn nguyện, hay là…?",
+    "screenshots": [
+      "https://imgbox.com/gHC9BmIP",
+      "https://imgbox.com/HnvXHe5l",
+      "https://imgbox.com/bfbZiBqX",
+      "https://imgbox.com/alKW46pl"
+    ]
   }
 ];
