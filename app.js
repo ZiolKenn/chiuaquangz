@@ -389,5 +389,19 @@ const apps = [
       "https://files.catbox.moe/bojor2.jpg",
       "https://files.catbox.moe/z22cyf.jpg"
     ]
+  },
+  {
+    "type": "iPA",
+    "logo": "https://files.catbox.moe/hrm80q.png",
+    "name": "Yuri Game",
+    "os": "iOS",
+    "version": "1.5.3",
+    "size": "3,9MB",
+    "description": "YuriGame là một trình giả lập galgame cho iOS",
+    "downloadLink": "Comingson",
+    "detailDesc": "YuriGame emulator là một trình giả lập game galgame được tối ưu hóa hoàn toàn cho iOS, cho phép người chơi thưởng thức các game galgame.\n\nỨng dụng này cung cấp một công cụ game rất mạnh mẽ, bao gồm hỗ trợ cho các công cụ sau:\n\nONScripter\nKiriKiri\nArtemis\nLưu ý : Phiên bản hiện tại vẫn đang trong giai đoạn thử nghiệm và cần gấp người kiểm thử và lập trình viên tham gia.",
+    "screenshots": [
+      "https://files.catbox.moe/vdcq3c.jpg"
+    ]
   }
 ];
