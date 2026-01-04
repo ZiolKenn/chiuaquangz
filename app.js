@@ -241,5 +241,22 @@ const apps = [
       "https://files.catbox.moe/cuvsta.png",
       "https://files.catbox.moe/x27iq0.png"
     ]
+  },
+  {
+    "type": "Game",
+    "logo": "https://files.catbox.moe/z3mbzm.jpg",
+    "name": "Sex App",
+    "os": "Android",
+    "version": "Hoàn Thành",
+    "size": "100,78MB",
+    "description": "Android và PC nhớ Sài Joiplay",
+    "downloadLink": "https://1024terabox.com/s/1Yuv7SCGdjs1rnJcTxFxa5Q",
+    "detailDesc": "Một ứng dụng đặc biệt cho phép bạn tự do điều khiển người mình yêu thương, mọi lúc, mọi nơi. Một ngày nọ, nhân vật chính và nữ chính đột nhiên có được sức mạnh siêu nhiên này, và cuộc sống thường nhật của họ thay đổi một cách đột ngột...",
+    "screenshots": [
+      "https://files.catbox.moe/rbdyvc.webp",
+      "https://files.catbox.moe/a9t2lm.webp",
+      "https://files.catbox.moe/qppryr.webp",
+      "https://files.catbox.moe/rbdyvc.webp"
+    ]
   }
 ];
