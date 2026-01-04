@@ -290,5 +290,16 @@ const apps = [
       "https://files.catbox.moe/kpvynw.jpeg",
       "https://files.catbox.moe/uh2y9z.jpeg"
     ]
+  },
+  {
+    "type": "Game",
+    "logo": "https://files.catbox.moe/8injfn.jpg",
+    "name": "FukujyuNoOri",
+    "os": "Android",
+    "version": "Hoàn Thành",
+    "size": "82,63MB",
+    "description": "Một tựa game trừng phạt Android",
+    "downloadLink": "https://1024terabox.com/s/1CUyYzr70LVZzExm_dqUsvw",
+    "detailDesc": "Thể loại: 18+,Rape,\nNgôn ngữ: Tiếng Ai\n"
   }
 ];
