@@ -265,9 +265,9 @@ const apps = [
     "name": "Suyasuya Ecchi Zettai Yurusanai!",
     "os": "Android",
     "version": "Hoàn Thành",
-    "size": "101,5B",
+    "size": "101,5MB",
     "description": "Suyasuya Ecchi Zettai Yurusanai!-VH Android Joiplay và PC\nGame RPG",
-    "downloadLink": "https://1024terabox.com/s/1D011imM4ej8Kv0urtZk9dQ",
+    "downloadLink": "https://1024terabox.com/s/1c9NtD99MFOiSbQxpvd_uIA",
     "detailDesc": "\"Nếu cô gái bạn thích ngủ quên trong phòng bạn thì sao…?\"\n\nCô bạn thời thơ ấu của nhân vật chính, một cô gái hơi ương bướng, đến phòng anh ta mỗi ngày.\n\nMặc dù tỏ ra lạnh lùng và kín đáo, nhưng thực chất cô ấy khá dễ bị tổn thương, và một ngày nọ, cô ấy ngủ thiếp đi trên giường anh ta.\n\nHai người họ ở một mình trong căn phòng tĩnh lặng.\n\nNhìn cô ấy ngủ say sưa trong tiếng ngáy vô tư, sự tỉnh táo của anh bắt đầu lung lay.",
     "screenshots": [
       "https://files.catbox.moe/shlabv.jpeg",
