@@ -335,5 +335,23 @@ const apps = [
       "https://files.catbox.moe/szakqm.jpg",
       "https://files.catbox.moe/0nlcp1.jpeg"
     ]
+  },
+  {
+    "type": "Game",
+    "logo": "https://files.catbox.moe/536o5n.jpeg",
+    "name": "Yakuza Rogue: Yokohama massage parlor chapter",
+    "os": "Android",
+    "version": "1.9.3",
+    "size": "1,09GB",
+    "description": "Phần 2 của game Self-defense Dojo Secret NTR Lessons",
+    "downloadLink": "https://1024terabox.com/s/1o7VEfiaHetacXrP8QOCMiQ",
+    "detailDesc": "Thể loại: 18+,2D, Simulator\nNgôn ngữ: Tiếng Việt\nNhà phát hành: Wakuwaku\nNội dung: Đây là một trò chơi mô phỏng khiêu dâm có yếu tố hài hước. Nhân vật chính, Kouta Morimura, được giao nhiệm vụ quản lý một tiệm massage kiểu cũ và phải kiếm đủ tiền trong thời hạn nhất định để hoàn thành nhiệm vụ thăng tiến trong thế giới ngầm.\n\nĐồng thời, anh ta cũng phải dành thời gian duy trì các mối quan hệ tình cảm phức tạp với một số phụ nữ. Kết cục của câu chuyện hoàn toàn phụ thuộc vào kỹ năng quản lý và tài năng lãng mạn của người chơi!\n\nNgười chơi cần mô phỏng việc quản lý một tiệm massage truyền thống Thái Lan, kiếm đủ tiền để thăng tiến. Trong thời gian rảnh, bạn cũng có thể xây dựng mối quan hệ tình cảm với khách hàng trong cửa hàng và hẹn hò với họ.\n\nBên cạnh việc thu hút khách hàng, một thách thức quan trọng khác trong quản lý là đào tạo nhân viên!",
+    "screenshots": [
+      "https://files.catbox.moe/b03yrf.jpg",
+      "https://files.catbox.moe/jpbulw.jpg",
+      "https://files.catbox.moe/bt6z0o.jpg",
+      "https://files.catbox.moe/53fn5z.jpeg",
+      "https://files.catbox.moe/9535jy.jpg"
+    ]
   }
 ];
