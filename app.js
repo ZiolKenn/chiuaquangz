@@ -301,5 +301,22 @@ const apps = [
     "description": "Một tựa game trừng phạt Android",
     "downloadLink": "https://1024terabox.com/s/1CUyYzr70LVZzExm_dqUsvw",
     "detailDesc": "Thể loại: 18+,Rape,\nNgôn ngữ: Tiếng Ai\n"
+  },
+  {
+    "type": "Game",
+    "logo": "https://files.catbox.moe/r6qpgn.jpeg",
+    "name": "Paid Dating Fantasy",
+    "os": "Android",
+    "version": "Hoàn Thành",
+    "size": "1.4GB",
+    "description": "Paid Dating Fantasy Android PC",
+    "downloadLink": "https://1024terabox.com/s/1BD4zz2p1NeIjdUHZ_mDMSQ",
+    "detailDesc": "Thể loại: 18+, 2D, Main Nam, Harem, Fantasy, Simulation.\nPhiên bản: Hoàn thành\nNgôn ngữ: Việt Hóa\nDeveloper: Laplace\nNội Dung:Đây là một thế giới giả tưởng về phép thuật theo phong cách Trung cổ!\n\nBạn là một nhà mạo hiểm tội nghiệp, đang ngồi trong quán bar và suy nghĩ về lý do tại sao mà mối quan hệ của bạn với Sasha, một cô hầu bàn yêu tinh lại chẳng đi đến đâu.\n\n“Trông cậu có vẻ rối rắm đấy, chàng mạo hiểm giả à.”\n\nTrong khoảnh khắc đó, một nàng tiên tình yêu (tự phong), Seravy, đã ban cho bạn những kỹ năng để khiến tình yêu của bạn trở thành hiện thực.\n\nKhi cô ấy nâng huy chương lên không trung và nó tỏa sáng với ánh sáng chói mắt, một kỹ năng mới sẽ xuất hiện trong menu trạng thái của bạn.\n\nKỹ năng hiếm huyền thoại, [Hẹn Hò Trả Tiền]!",
+    "screenshots": [
+      "https://files.catbox.moe/xg7e89.jpg",
+      "https://files.catbox.moe/39kyku.jpg",
+      "https://files.catbox.moe/43znel.jpg",
+      "https://files.catbox.moe/4tr5vs.jpg"
+    ]
   }
 ];
