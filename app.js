@@ -379,7 +379,7 @@ const apps = [
     "version": "0.9",
     "size": "12GB",
     "description": "Eternum Android và PC",
-    "downloadLink": "Comingson",
+    "downloadLink": "https://1024terabox.com/s/1bHLPowf2tGMjZ80eawqwwQ",
     "detailDesc": "Thể loại: 18+, 3D, Main Nam, Romance, Harem, Visual Novel, Cảnh H Động.\n\nPhiên bản: v0.9\n\nNgôn ngữ: Tiếng việt\n\nDeveloper: Caribdis\n\nNội Dung Game: Bạn cùng với hai người bạn thân chuyển đến Kredon, nơi có nên giáo dục tốt nhất hiện nay để tiếp tục việc học của mình.\n\nTuy vậy, mọi người ở Kredon và thế giới trong game đều đang bàn tán về Eterum – một game MMORPG siêu thực tế ảo được phát hành cách đây vài năm đã tạo ra một cuộc cách mạng trong thế giới công nghệ.\n\n\nVới thiết bị cấy ghép thần kinh tái tạo năm giác quan, bạn sẽ không thể phân biệt được đâu là trò chơi và đâu là thế giới thực.\n\nHàng nghìn máy chủ tạo thành mạng lưới của Eternum: từ những thế giới giả tưởng đầy màu sắc, đầy ma thuật đến những thành phố khoa học viễn tưởng đầy sương mù, không thế giới nào là không có.\n\nTuy nhiên, không trông như vẻ bề ngoài, có những mặt tối trong cái thế giới ảo Eternum này như là: chợ đen, tra tấn, hãm hiếp, buôn bán bất hợp pháp, tổ chức tội phạm, đánh cắp dữ liệu… Eternum không có luật lệ nào cả.\n\nVì một số lý do, chính phủ đã nhắm mắt làm ngơ với những gì xảy ra trong Eternum, một số thì vẫn ủng hộ, số khác thì không….\n\nCòn bạn thì sao? Và vai trò của bạn trong câu chuyện này là gì?\n\nUhm, chắc bạn sẽ quyết định được khi khám phá Eterum cũng như những truyện xảy ra xung quanh nhân vật chính của game thôi.",
     "screenshots": [
       "https://files.catbox.moe/8wwbpn.jpg",
