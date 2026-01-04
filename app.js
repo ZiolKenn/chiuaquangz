@@ -327,7 +327,7 @@ const apps = [
     "version": "1.9.12",
     "size": "897,90MB",
     "description": "Self-defense Dojo Secret NTR Lesson Android và PC",
-    "downloadLink": "Comingson",
+    "downloadLink": "https://1024terabox.com/s/1ze_UrJd5gI2gc34MYJvmpA",
     "detailDesc": "Thể loại: 18+, 2D, Main Nam, NTR, Simulation.\nPhiên bản: Hoàn thành\nNgôn ngữ: Tiếng việt\nDeveloper: WAKUWAKU\nNội Dung: Đây là một game eroge thuộc thể loại simulation có yếu tố hài hước.\nThế nhưng bất ngờ thay là võ đường của ông bạn lại là một địa điểm khá nổi tiếng với các cặp vợ chồng, tình nhân,…\nTại đó, cứ ngỡ bạn sẽ phải trải qua một mùa hè đầy nhàm chán khi chỉ có thể luyện võ và ăn ngủ…\nBạn đến võ đường ông mình chơi vài tháng nhân dịp hè.",
     "screenshots": [
       "https://files.catbox.moe/166i9f.jpg",
