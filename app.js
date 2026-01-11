@@ -403,5 +403,22 @@ const apps = [
     "screenshots": [
       "https://files.catbox.moe/vdcq3c.jpg"
     ]
+  },
+  {
+    "type": "iPA",
+    "logo": "https://files.catbox.moe/ttp4rr.ico",
+    "name": "Teaching Feeling Mod By Ichibikun",
+    "os": "iOS",
+    "version": "2.7",
+    "size": "891,24MB",
+    "description": "Teaching Feeling Port IPA By Zenpai Misaka",
+    "downloadLink": "https://pixeldrain.com/u/u3gX2JCT",
+    "detailDesc": "Thể loại: 18+, 2D, Main Nam, Rape, Nuôi Gái, Loli, Visual Novel, Simulation, Cảnh H Động.\nPhiên bản: Mod v2.7\nNgôn ngữ: Tiếng việt\nDeveloper: ScoutsWren\nĐược việt hóa bởi: Ichibikun\nNội Dung Game: Bạn sẽ vào vai một bác sĩ ở một thị trấn nọ. Bạn là người độc thân và không có nhiều thời gian chăm lo cho các mối quan hệ.\n\nMột ngày nọ, có một người đàn ông dắt theo một cô gái nhỏ, yếu ớt và rách rưới đến phòng khám của bạn. \n\nAnh ta nói rằng, anh ta từng mang ơn bạn, và anh ta sẽ trả ơn bạn bằng cách mang cho bạn một cô gái làm nô lệ. \n\nTên cô ấy là Sylvie. Và trò chơi của bạn, cuộc sống của bạn mỗi ngày với cô gái nô lệ sẽ bắt đầu. Mọi tình huống sẽ diễn ra, phụ thuộc vào cách mà bạn đối xử với cô gái đó như thế nào.\n\nVậy, bạn có một cô gái nô lệ, bạn sẽ làm gì với cô ấy? Lạm dụng để thỏa mãn bạn, hay là chăm sóc cô ấy như một người bạn yêu thương?",
+    "screenshots": [
+      "https://files.catbox.moe/wrqvjn.jpg",
+      "https://files.catbox.moe/x5gpyr.jpg",
+      "https://files.catbox.moe/ea6bhp.jpg",
+      "https://files.catbox.moe/58ase6.jpeg"
+    ]
   }
 ];
